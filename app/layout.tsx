@@ -10,7 +10,6 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "The Thalasso - Premium Beauty & Skincare",
   description: "Luxury beauty and skincare products with CBD and natural ingredients",
-  generator: "v0.app",
 }
 
 export default function RootLayout({
